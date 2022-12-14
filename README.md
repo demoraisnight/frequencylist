@@ -10,3 +10,9 @@
 - and some examples in Youglish
 
 ## See it [live](https://viniciusdemorais.pythonanywhere.com/).
+### To build this project I used:
+- Python
+- APIS
+- Selenium
+- Flask
+- HTML 
