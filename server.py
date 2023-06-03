@@ -13,7 +13,7 @@ with open("database", "rb") as fp:
     arquivo = pickle.load(fp)
 
 @app.route('/', methods=['GET'])
-def hello_world():
+def index():
     return render_template("indexx.html")
 
 @app.route('/search')
